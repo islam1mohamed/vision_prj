@@ -1,0 +1,115 @@
+tinynet : 1
+cifar : 2
+-----------------------
+dataset2
+svm_hog acc 0.2088 
+svm_lbp acc 0.0314 
+knn_lbp acc  0.0692
+knn_color acc 0.1085 
+svm_lbp acc 0.0314 
+knn_lbp acc  0.0692
+-----------------------
+dataset2
+svm_hog acc 20.880000000000003% 
+svm_lbp acc 3.1399999999999997% 
+knn_lbp acc  6.92%
+knn_color acc 10.85% 
+svm_lbp acc 3.1399999999999997% 
+knn_lbp acc  6.92%
+-----------------------
+dataset: 2
+svm_hog acc 20.880000000000003% 
+svm_lbp acc 3.1399999999999997% 
+knn_lbp acc  6.92%
+knn_color acc 10.85% 
+svm_color acc 5.17% 
+kmean_color acc  4.84%
+-----------------------
+dataset: 2
+svm_hog acc 20.880000000000003% 
+svm_lbp acc 3.1399999999999997% 
+knn_lbp acc  6.92%
+knn_color acc 10.85% 
+svm_color acc 5.17% 
+kmean_color acc  4.84%
+
+-----------------------
+dataset: 2
+svm_hog acc 20.880000000000003% 
+svm_lbp acc 3.1399999999999997% 
+knn_lbp acc  6.92%
+knn_color acc 10.85% 
+svm_color acc 5.17% 
+kmean_color acc  4.82%
+kmean_lbp_acc: 5.0200000000000005%
+-----------------------
+dataset: 2
+svm_hog acc 20.880000000000003% 
+svm_lbp acc 3.1399999999999997% 
+knn_lbp acc  6.92%
+knn_color acc 10.85% 
+svm_color acc 5.17% 
+kmean_color acc  4.67%
+kmean_lbp_acc: 5.08%
+
+-----------------------
+dataset: 2
+parameters -> k = 30 , img 64x64 svm_hog acc 20.880000000000003% 
+svm_lbp acc 3.1399999999999997% 
+knn_lbp acc  6.92%
+knn_color acc 10.85% 
+svm_color acc 5.17% 
+kmean_color acc  4.67%
+kmean_lbp_acc: 5.08%
+
+-----------------------
+dataset: 2
+parameters -> max_iter = 30 , img 64x64 
+svm_hog acc: 20.88% 
+svm_lbp acc: 3.14% 
+knn_lbp acc: 6.92% 
+
+knn_color acc: 10.85% 
+svm_color acc: 5.17% 
+kmean_color acc: 4.67% 
+kmean_lbp acc: 5.08%
+
+knn_lbp_64 acc: 7.25% 
+svm_lbp_64 acc: 3.64% 
+
+knn_color_64 acc: 10.83% 
+svm_color_64 acc: 5.15%
+
+-----------------------
+dataset: 2
+parameters -> max_iter = 30 , img 64x64 
+svm_hog acc: 20.88% 
+
+svm_lbp acc: 3.14% 
+knn_lbp acc: 6.92% 
+kmean_lbp acc: 5.08%
+
+svm_color acc: 5.17% 
+knn_color acc: 10.85% 
+kmean_color acc: 4.67% 
+
+svm_lbp_64 acc: 3.64% 
+knn_lbp_64 acc: 7.25% 
+
+svm_color_64 acc: 5.15%
+knn_color_64 acc: 10.83% 
+
+
+-----------------------
+dataset: 2
+parameters -> max_iter = 30, extraction_time1182.697581768036 
+
+svm_hog_64 acc: 20.88% time: 1289.18 sec
+
+svm_hog_32 acc: 20.38% time: 272.07 sec 
+
+svm_lbp_32 acc: 3.15% time: 162.95 sec 
+knn_lbp_32 acc: 5.76% time: 95.63 sec
+
+svm_color_32 acc: 4.92% time: 201.85 sec
+knn_color_32 acc: 11.02% time: 140.81 sec 
