@@ -1,7 +1,0 @@
-svm_hog acc 0.0995 
-svm_lbp acc 0.0251 
-knn_lbp acc  0.0451 knn_color acc 0.0623 
-svm_lbp acc 0.0251 
-knn_lbp acc  0.0451 
-knn_color acc 0.0541 
-svm_color acc 0.0258
