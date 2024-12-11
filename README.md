@@ -1,4 +1,7 @@
 # vision_prj
+
+## use running_version to run project
+
 This project used 2 data versions 
 
 The dataset needs to be downloaded seperately
