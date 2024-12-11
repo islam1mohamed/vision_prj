@@ -1,0 +1,42 @@
+
+-----------------------
+dataset: 2
+parameters -> max_iter = 30, extraction_time: 266.9787814617157 
+svm_hog_32 acc: 20.38% time: 239.90 sec
+kmean_hog_32 acc: 19.29% time: 744.24 sec
+
+svm_lbp acc: 3.64% time: 153.86 sec 
+knn_lbp acc: 7.25% time: 88.90 sec
+kmean_lbp acc: 4.44% time: 19.32 sec
+
+svm_color acc: 4.92% time: 175.75 sec
+knn_color acc: 11.02% time: 126.87 sec 
+kmean_color acc: 4.70% time: 33.06 sec 
+
+-----------------------
+dataset: 2
+parameters -> max_iter = 30, extraction_time: 247.8986096382141 
+svm_hog_32 acc: 20.38% time: 255.17 sec
+kmean_hog_32 acc: 19.29% time: 730.12 sec
+
+svm_lbp acc: 3.64% time: 154.11 sec 
+knn_lbp acc: 7.25% time: 86.69 sec
+kmean_lbp acc: 4.62% time: 36.49 sec
+
+svm_color acc: 4.92% time: 179.86 sec
+knn_color acc: 11.02% time: 128.61 sec 
+kmean_color acc: 4.70% time: 31.71 sec 
+
+-----------------------
+dataset: 2
+parameters -> max_iter = 30, extraction_time: 254.57199239730835 
+svm_hog_32 acc: 20.38% time: 243.44 sec
+kmean_hog_32 acc: 19.29% time: 699.65 sec
+
+svm_lbp acc: 3.64% time: 155.08 sec 
+knn_lbp acc: 7.25% time: 84.89 sec
+kmean_lbp acc: 4.62% time: 35.74 sec
+
+svm_color acc: 4.92% time: 180.12 sec
+knn_color acc: 11.02% time: 124.51 sec 
+kmean_color acc: 4.70% time: 31.39 sec 
